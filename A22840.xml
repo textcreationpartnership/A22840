@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is the ordinaunce for the conseruation and keping of the Quenes Maiesties swannes and sygnettes, and of the Lordes spirituall and temporall, and of her Commons within the counties of Lincolne, Northampton, Rutland, Huntyngton, and Cambridge, and the liberties &amp; fraunchyse of the same and for the conseruacion of fyshe and fowle, with the assissing of all maner of nettes within the sayde counties and liberties of the same.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1564</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22840</idno>
+            <idno type="STC">STC 9342.4</idno>
+            <idno type="STC">ESTC S4645</idno>
+            <idno type="EEBO-CITATION">23677635</idno>
+            <idno type="OCLC">ocm 23677635</idno>
+            <idno type="VID">26807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1832:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is the ordinaunce for the conseruation and keping of the Quenes Maiesties swannes and sygnettes, and of the Lordes spirituall and temporall, and of her Commons within the counties of Lincolne, Northampton, Rutland, Huntyngton, and Cambridge, and the liberties &amp; fraunchyse of the same and for the conseruacion of fyshe and fowle, with the assissing of all maner of nettes within the sayde counties and liberties of the same.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Powles Churchyarde by Rycharde Jugge and John Cawood ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1564?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>"Cum priuilegio Regiæ Maiestatis."</note>
+                  <note>Formerly STC 7980--Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Queen's College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Swans --  England.</term>
+               <term>Birds, Protection of --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:26807:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>¶ This is the ordinaunce for the conſeruation and keping of the Quenes Maieſties ſwannes and ſygnettes, and of the Lordes ſpirituall and temporall, and of her Commons within the Counties of Lincolne, Forthampton, Rutland, Huntyngton, and Cambridge, and the liberties &amp; fraunchyſe of the ſame: And for the conſeruation of fyſhe and ſowle, with the aſſiſſing of all maner of nettes within the ſayde Counties and liberties of the ſame.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>YRST</hi> it is ordeined and ſtatuted, that euery perſon hauing any Swannes, ſhal begin yerely to marke or cauſe to be marked the ſame vpon the Munday next after Trinitie Sunday, &amp; no perſon afore, but after as the company may, ſo that the Maſter of the Quenes game of Swannes or his deputies be there preſent, and yf any perſon or perſons take vpon hym or them in marking to the contrary, to forfeyte to the Quene .xl. s.</p>
+            <p>¶ Item it is ordeyned, that no perſon nor perſons beyng Swanheards nor other, ſhal go on marking without the maſter of the Quenes game of Swannes or his deputie bee preſent, whith .vi. or .iii. of the company of Swanheardes, vpon paine to forfeyte to the Quenes grace .xl. s.</p>
+            <p>¶ Item it is ordeined, that no perſon take vp no ſignet nor ſignets vnmarked, nor make no ſale of the<g ref="char:cmbAbbrStroke">̄</g>, but yf the Quenes Swanherde or his deputie with .iii. other Swanherdes next adioynyng be preſent or haue knowledge of the ſame, vpon payne to forfeyt to the Quenes grace .xl. s.</p>
+            <p>
+               <g ref="char:cross">✚</g> Item it is ordeined that the Swanherde of the duchy of La<g ref="char:cmbAbbrStroke">̄</g>caſter whithin the ſaid counties, nor with<g ref="char:EOLhyphen"/>in the liberties and fraſiches of the ſame, nor no other perſon for him nor by him, ſhal make no ſale nor take vp no Swannes, nor marke them within the ſaid duchy, without the Quenes Swanherde or his deputie be preſent, vpon payne to forfeyt to the Quenes grace .xl. s. And in like wiſe it is ordeyned that the Quenes Swanherde of the foreſaid counties nor his deputie, ſhall not enter into the ſaid duchy to take up any Swannes or ſignets, nor them to marke without the Swanherde of the duchy be preſent, vpon paine to forfeyte to the Quenes grace .xl. s.</p>
+            <p>
+               <g ref="char:cross">✚</g> Item it is ordeined, that if any Swannes or ſignets be found without the ſaid duchy double marked or put out or right marke, that then it ſhalbe ſeaſed for the Quene, and to be delyuered to the maiſter of the Quenes game of Swannes or to hys deputie, and ſo to remayne to it be proued by .iiii. or .vi. ſuffi<g ref="char:EOLhyphen"/>cient Swanherdes, to whom the ſayd Swa<g ref="char:cmbAbbrStroke">̄</g>nes or ſignets belong or appertaine, ſo that the knowledge of the ſame be had by the ſaide Swanherds after the ſaid deliuery afore the ſeſſions of Swannes than next to be kept within the countie, where as it ſhal ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſaid Swans or ſignets to be ſeaſed and deli<g ref="char:EOLhyphen"/>uered in fourme aforeſaid. And yf ſo be the proprety of the ſame Swannes or ſignets can not be knowē by the ſaid ſeſſions, that then the Quene to be aſſured of the value of the ſame Swannes and ſignettes,</p>
+            <p>¶ Item it is ordeyned that yf any perſon or perſons wylfully put anye ſwannes from theyr neſtes, whereſoeuer they breede, or els take vp &amp; deſtroy of beare away the egges or egge of the ſaide ſwannes, to forfait for euery default &amp; preſented in the ſeſſions of ſwannes to the Quenes grace .xiii. s. iiii. d.</p>
+            <p>¶ Item it is ordeyned that no man ſhal make ſale of no whyte ſwnnes, nor make delyuery of them wihtout the maſter of the game or his deputie be preſent, with .iii. or .vi. ſwanheardes next adioyning vnder payne of .xl. s. whereof ſhalbe to the fynder .vi. s. viii. d. and the reſidue to the Quene.</p>
+            <p>¶ Item it is ordeyned that no perſon or perſons hunt in fene tyme or in any haunt of ſwannes with dogges, from the feaſt of Eaſter to the ſunday after Trinitie ſunday, vpon payne for euery tyme ſo do<g ref="char:EOLhyphen"/>yng .vi. s. viii. d.</p>
+            <p>¶ Item it is ordeyned that yf any perſon ſet any ſnares or anye maner of inginnes to take Bittors or ſwannes betwixt the feaſt of Eaſter and Lammas, he or they to forfeit for euery tyme ſo ſettyng any ſuch ingins .vi. s. viii. d.</p>
+            <p>¶ Item it is ordeyned, that no perſon nor perſons ſhallay no net nor nettes, nor dragge with net nor nets within the common ſtremes, waters nor maryſhes vpon the day tyme, from the feaſt of the Inuen<g ref="char:EOLhyphen"/>cion of the holy croſſe, vnto the feaſt of Lammas, vpon payne as often as they be found in fault and pre<g ref="char:EOLhyphen"/>ſented in the ſeſſions of ſwannes before the Quenes Iuſtices .xx. s. to forfeit to the Quenes grace.</p>
+            <p>¶ Item it is ordeyned, that euery ſwanherde intending to kepe any ſwannes or ſignettes, that they ſhal kepe the<g ref="char:cmbAbbrStroke">̄</g> in a pen or pit within .xx. foote of the co<g ref="char:cmbAbbrStroke">̄</g>mon ſtreme, or els within .xx. foote of the Quenes hygh way, ſo that the Quenes ſubiectes paſſyng by may haue the ſyght of the ſayde ſwannes, vppon payne of .xl. s.</p>
+            <p>¶ Item it is ordeyned, that there ſhalbe no forfeyt of whyte ſwannes nor grey ſwannes nor ſignets but only to the Quenes grace, aſwell within the fraunches and liberties as without: and as often as any perſon ſeaſe and delyuer the ſayde ſwannes to any other perſon, but only to the maſter of the game or to the Quenes vſe, he to forfait to the Quenes grace .vi. s. viii. d.</p>
+            <p>¶ Ite<g ref="char:cmbAbbrStroke">̄</g> it is ordeyned, that no maner of perſon nor perſons ſhal lay nor ſet nettes named trameles, nor nettes called drayes, nor dray with no net fro<g ref="char:cmbAbbrStroke">̄</g> the .xvi. day next before the feaſt of ſiant Marke the Euan<g ref="char:EOLunhyphen"/>geliſt, vnto the .xvi. day next enſuing the ſame feaſt. That is to wit, within the co<g ref="char:cmbAbbrStroke">̄</g>mon ſtreames, waters, fennes and marſhes in the countie of Lincolne, Northampton, Rutland, Huntyngton, and Cambrige, nor within the Ile of Ely, vpon payne of .xl. s.</p>
+            <p>¶ Item it is ordeyned, that no man ſhal take no gray ſwannes nor white ſwannes flying-but that he ſhall within .iii. dayes next after the ſaid taking, deliuer it or the<g ref="char:cmbAbbrStroke">̄</g> to the maſter of the Quenes ſwan<g ref="char:EOLhyphen"/>nes or to his deputie to the Quenes vſe, and the taker to haue for his takyng .viii. d.</p>
+            <p>¶ Item it is ordeyned, that no maner of perſon of what eſtate, degree, or condicion he be, hauing any game of ſwannes of his owne, ſhalbe no ſwanheard nor keper of none other mens ſwannes, vpon pairs of .xl. s.</p>
+            <p>¶ Item it is ordeyned, that not ſwanherde nor fiſher, nor fowler, ſhall not vexe nor trouble another ſwanhearde, fyſher nor fowler, by way of action, or otherwyſe, but onely afore the Quenes Iuſtice of her ſeſſions of ſwannes, vpon payne of forfaytyng to the Quenes grace .xiii. s. iii. d.</p>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at Lodon in Powles Churchyarde by Rycharde Iugge and Iohn Cawood, Printers to the Quenes Maieſtie.</p>
+            <p>
+               <hi>Cum priuilogio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
